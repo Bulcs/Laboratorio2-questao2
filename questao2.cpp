@@ -31,5 +31,4 @@ funcX ( arg1, arg2);
 funcY ( &arg1, arg2);
 int resultado = 0;
 funcZ (arg1,arg2,&resultado);
-return 0;
 }
